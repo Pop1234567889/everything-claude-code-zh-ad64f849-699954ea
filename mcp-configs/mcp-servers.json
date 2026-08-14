@@ -41,6 +41,11 @@
       "args": ["-y", "@railway/mcp-server"],
       "description": "Railway deployments"
     },
+    "lovable": {
+      "type": "http",
+      "url": "https://mcp.lovable.dev/?src=docs",
+      "description": "Lovable AI app builder - create and manage full-stack apps"
+    },
     "cloudflare-docs": {
       "type": "http",
       "url": "https://docs.mcp.cloudflare.com/mcp",
